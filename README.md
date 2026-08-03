@@ -1,4 +1,4 @@
-# Hi, I'm Sachin
+# Hi there, I'm Sachin
 
 **AI Product Leader | Founding Product Team Member at Prezent | Building Enterprise AI Products from 0-to-1**
 
