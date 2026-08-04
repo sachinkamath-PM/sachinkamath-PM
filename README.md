@@ -47,37 +47,9 @@ Purpose-built experiences for scientific posters, abstracts, medical communicati
 
 ---
 
-## My Product Journey
-
-I joined Prezent as part of the founding product team and have worked closely with the founder and leadership team through the company's journey from day zero.
-
-Along the way, I have helped:
-
-- Build and scale a portfolio of enterprise AI products
-- Take products from early concepts to enterprise-wide adoption
-- Serve more than 100 enterprise customers
-- Build solutions for highly regulated industries such as life sciences
-- Lead cross-functional teams across product, AI, engineering, design, and go-to-market
-- Support the company's growth to more than $20M in annual recurring revenue and an approximately $400M valuation
-
----
-
 ## Areas I Work In
 
 `Generative AI` | `Agentic AI` | `Enterprise SaaS` | `Product Strategy` | `AI Platforms` | `LLM Applications` | `Enterprise Integrations` | `Life Sciences` | `Product Discovery` | `0-to-1 Products` | `Product-Led Growth`
-
----
-
-## What I'm Exploring
-
-I'm particularly interested in:
-
-- AI agents that can plan and execute complex workflows
-- Human-AI collaboration in enterprise products
-- Multimodal content generation
-- Context-aware enterprise AI systems
-- AI products for regulated industries
-- New interaction models beyond traditional software interfaces
 
 ---
 
