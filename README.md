@@ -57,7 +57,7 @@ Purpose-built experiences for scientific posters, abstracts, medical communicati
 
 I enjoy connecting with product builders, founders, AI practitioners, and teams working on ambitious enterprise products.
 
-[GitHub](https://github.com/sachinkamath-PM)
+[GitHub](https://github.com/sachinkamath-PM) [LinkedIn](https://www.linkedin.com/in/sachinkamath-001) [Email](sachinkamath05@gmail.com)
 
 ---
 
